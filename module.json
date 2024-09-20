@@ -1,0 +1,13 @@
+{
+    "name": "Tank-marker",
+    "author": "adeel",
+    "description": "marks tanks in MT",
+    "version": 1.0,
+    "options":{
+        "cliname": "Tank Marker",
+        "guiname": "Tank Marker",
+        "reloadable": true
+    },
+    "servers":["https://raw.githubusercontent.com/AdeelJaved3/Tank-marker/main/"],
+    "disableAutoUpdate": false
+}
