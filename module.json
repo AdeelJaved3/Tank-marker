@@ -2,7 +2,7 @@
     "name": "Tank-marker",
     "author": "adeel",
     "description": "marks tanks in MT",
-    "version": 1.0,
+    "version": "1.0",
     "options":{
         "cliname": "Tank Marker",
         "guiname": "Tank Marker",
